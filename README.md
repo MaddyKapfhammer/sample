@@ -14,6 +14,6 @@ _Madelyn is the daughter of Gregory._
 ~~I like to write words with lines through them.~~
 
 #### Bullet Points
-+Tea
-+Coffee
-+Smoothie
+++Tea
+++Coffee
+++Smoothie
