@@ -5,4 +5,7 @@ A color should give you a hint about what you are typing.
 Gregory likes the color orange.
 
 ### Madelyn
-Madelyn is the daughter of Gregory.
+_Madelyn is the daughter of Gregory._
+
+#Bold is Better
+**Sometimes I think that typing in bold is more fun**
