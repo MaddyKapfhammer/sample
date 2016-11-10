@@ -12,3 +12,8 @@ _Madelyn is the daughter of Gregory._
 
 ##Strikethrough
 ~~I like to write words with lines through them.~~
+
+#### Bullet Points
++Tea
++Coffee
++Smoothie
