@@ -15,6 +15,5 @@ _Madelyn is the daughter of Gregory._
 
 #### Bullet Points
 
-++Tea
-++Coffee
-++Smoothie
+#Members of the web development team
+Madelyn, Jake, Teri
